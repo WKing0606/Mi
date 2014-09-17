@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/JerryChan/Documents/Java/Mi/src/ui/MiFrame.java</file>
-            <file>file:/C:/Users/JerryChan/Documents/Java/Mi/src/Mi.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/Mi.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/com/mi/core/MiAccount.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/com/mi/ui/MiFrame.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/com/mi/core/Magician.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/com/mi/core/Config.java</file>
+            <file>file:/C:/Users/kingsoft/Documents/GitHub/Mi/src/com/mi/core/Demo.java</file>
         </group>
     </open-files>
 </project-private>

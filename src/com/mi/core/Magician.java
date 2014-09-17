@@ -4,12 +4,14 @@
  * and open the template in the editor.
  */
 
-package core;
+package com.mi.core;
 
 /**
  *
  * @author WKing0606 <WKing0606@gmail.com>
  */
-public class MiAccount {
+public class Magician {
+    private Config m_config;
+    
     
 }

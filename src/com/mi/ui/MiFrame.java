@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ui;
+package com.mi.ui;
 
 /**
  *
@@ -117,8 +117,6 @@ public class MiFrame extends javax.swing.JFrame {
                     .addComponent(textVerification))
                 .addContainerGap())
         );
-
-        btnEnter.getAccessibleContext().setAccessibleName("确定");
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
